@@ -1,16 +1,27 @@
-### Hi there 👋
+👋 Whoopsie! I'm a real LazzyBird (just another long story)
 
-<!--
-**LazzyBird/LazzyBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+Passionate QA explorer with a knack for breaking things – in a good way!
+Here to make software bulletproof, one bug at a time. 🐛💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Toolbox
+- Manual Tester 🕹️
+- JavaScript Journeyer 🚀
+  
+🛠️ Tools & Skills
+- Testing Wizardry 🧙‍♂️
+- Postman Power User 📬
+- Playwright Pioneer 🎭
+  
+📚 Learning Path
+Currently levelling up on:
+- Automated API Testing 🤝
+- // Dockerizing my dreams 🐳
+- // "JS Web UI and Mobile" Path 🌐
+  
+🌟 Goals
+Striving to be a QA maestro who dances through code and sprinkles quality everywhere! 🕺✨
+
+📫 Let's Connect
+LinkedIn: [Connect with me!](https://www.linkedin.com/in/olha-krotova-a224677b/)
